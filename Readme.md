@@ -1,5 +1,6 @@
 ### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> This is a very professional profile 🙃
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ISBIdtRhGF0JUxZud8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/god-of-war-kratos-meme-ISBIdtRhGF0JUxZud8">via GIPHY</a></p>
+| ![1](https://giphy.com/gifs/nier-replicant-louise-mRGmoWJ7JUB5vNoCYy/fullscreen) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
+| --- | --- | --- |
 
 ## I'm a Student, Game Developer and The One finding true love !! ❤️
 
