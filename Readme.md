@@ -1,8 +1,8 @@
-### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> This is a very professional profile 🙃
-<!-- | ![1](https://giphy.com/gifs/nier-replicant-louise-mRGmoWJ7JUB5vNoCYy/fullscreen) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
-| --- | --- | --- | -->
+### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> and This is a very professional profile 🙃
 
-<iframe src="https://giphy.com/embed/mRGmoWJ7JUB5vNoCYy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nier-replicant-louise-mRGmoWJ7JUB5vNoCYy">via GIPHY</a></p>
+| ![1](https://media.giphy.com/media/mRGmoWJ7JUB5vNoCYy/giphy.gif) | ![2](https://media.giphy.com/media/ISBIdtRhGF0JUxZud8/giphy-downsized-large.gif) | ![3](https://media.giphy.com/media/Mvc9eIKWtq1pmYUA7d/giphy.gif) |
+| --- | --- | --- |
+
 
 ## I'm a Student, Game Developer and The One finding true love !! ❤️
 
