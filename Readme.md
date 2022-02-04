@@ -1,32 +1,25 @@
-### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
+### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> This is a very professional profile 🙃
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ISBIdtRhGF0JUxZud8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/god-of-war-kratos-meme-ISBIdtRhGF0JUxZud8">via GIPHY</a></p>
 
 ## I'm a Student, Game Developer and The One finding true love !! ❤️
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Unity and Unreal Engine 🤣
-- 👯 I’m looking to collaborate with other game creators
-- 🥅 Future Goals: Make my own video game and publish it in Steam 😻 
-- ⚡ Fun fact: I :heart: :dog: and play video game also I play very noob 😥
+- 🔰 I’m currently working on something cool :wink:
+- :airplane: I’m currently learning Unity and Unreal Engine :dart:
+- 👯 I’m looking to collaborate with other game creators 💯
+- 🏳️‍🌈 Future Goals: Make my own video game and publish it in Steam 😻 
+- ⚡ Fun fact: I :heart: ♀️ and 🎮 also I play very 🐔
 
-### Connect with me:
+### Connect with me 🦄
 
 <p align="left">
+<a href="https://www.facebook.com/hant1201" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="hant" height="30" width="40" /></a>
 <a href="https://twitter.com/nthzz121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hant" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thanh-h%C3%A0-nguy%E1%BB%85n-64811a221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hant" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hant" height="30" width="40" /></a>
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools :computer:
+<br/> 
+<p align="left"> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.unrealengine.com/en-US/?sessionInvalidated=true" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/unreal-1.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-[<img align="left" alt="Unreal" width="26px" src="./unreal.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-<!-- [<img align="left" alt="Unity" width="26px" src="./uniy-logo.png" />] -->
-<br />
