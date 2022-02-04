@@ -2,8 +2,8 @@
 
 | ![1](https://media.giphy.com/media/mRGmoWJ7JUB5vNoCYy/giphy.gif) | ![2](https://media.giphy.com/media/5OW9D8sfzccttn3MwL/giphy.gif) | ![3](https://media.giphy.com/media/Mvc9eIKWtq1pmYUA7d/giphy.gif) |
 | --- | --- | --- |
-| ![1](https://media.giphy.com/media/GXD04gzl9ca2TiFoGb/giphy.gif) | ![2](https://media.giphy.com/media/wXyXa5zz5E4Lsiz3Qc/giphy.gif) | ![3](https://media.giphy.com/media/hHQdTR16golKYTA9jU/giphy-downsized.gif) |
-| --- | --- | --- |
+| ![1](https://media.giphy.com/media/GXD04gzl9ca2TiFoGb/giphy.gif) | ![2](https://media.giphy.com/media/hHQdTR16golKYTA9jU/giphy-downsized.gif) | ![3](https://media.giphy.com/media/wXyXa5zz5E4Lsiz3Qc/giphy.gif) |
+
 
 
 ## I'm a Student, Game Developer and The One finding true love !! ❤️
