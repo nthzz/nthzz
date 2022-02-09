@@ -6,12 +6,12 @@
 
 
 
-## I'm a Student, Game Developer and The One finding true love !! ❤️
+## I'm a Student, Game Developer,Enthusiast !! ❤️
 
 - 🔰 I’m currently working on something cool :wink:
 - :airplane: I’m currently learning Unity and Unreal Engine :dart:
 - 👯 I’m looking to collaborate with other game creators 💯
-- 🏳️‍🌈 Future Goals: Make my own video game and publish it in Steam 😻 
+- 🏳️‍🌈 Future Goals: Make my own video game about VRMMO (Virtual Reality Massively Multiplayer Online) 😻 
 - ⚡ Fun fact: I :heart: ♀️ and 🎮 also I play very 🐔
 
 ### Connect with me 🦄
