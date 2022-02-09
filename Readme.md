@@ -6,7 +6,7 @@
 
 
 
-## I'm a Student, Game Developer,Enthusiast !! ❤️
+## I'm a Student, Game Developer, Enthusiast !! ❤️
 
 - 🔰 I’m currently working on something cool :wink:
 - :airplane: I’m currently learning Unity and Unreal Engine :dart:
