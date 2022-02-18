@@ -11,7 +11,7 @@
 - 🔰 I’m currently working on something cool :wink:
 - :airplane: I’m currently learning Unity and Unreal Engine :dart:
 - 👯 I’m looking to collaborate with other game creators 💯
-- 🏳️‍🌈 Future Goals: Make my own video game about VRMMO (Virtual Reality Massively Multiplayer Online) 😻 
+- 🏳️‍🌈 Future Goals: Make my own video game about VRMMORPG 😻 
 - ⚡ Fun fact: I :heart: ♀️ and 🎮 also I play very 🐔
 
 ### Connect with me 🦄
