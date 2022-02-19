@@ -1,4 +1,4 @@
-### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> and This is not a very professional profile 🙃
+### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> and This is a very professional profile 🙃
 
 | ![1](https://media.giphy.com/media/mRGmoWJ7JUB5vNoCYy/giphy.gif) | ![2](https://media.giphy.com/media/5OW9D8sfzccttn3MwL/giphy.gif) | ![3](https://media.giphy.com/media/Mvc9eIKWtq1pmYUA7d/giphy.gif) |
 | --- | --- | --- |
@@ -6,12 +6,12 @@
 
 
 
-## I'm a Student, Game Developer and The One finding true love !! ❤️
+## I'm a Student, Game Developer, Enthusiast !! ❤️
 
 - 🔰 I’m currently working on something cool :wink:
 - :airplane: I’m currently learning Unity and Unreal Engine :dart:
 - 👯 I’m looking to collaborate with other game creators 💯
-- 🏳️‍🌈 Future Goals: Make my own video game and publish it in Steam 😻 
+- 🏳️‍🌈 Future Goals: Make my own video game about VRMMORPG 😻 
 - ⚡ Fun fact: I :heart: ♀️ and 🎮 also I play very 🐔
 
 ### Connect with me 🦄
