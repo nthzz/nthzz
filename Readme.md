@@ -12,7 +12,7 @@
 - :airplane: I’m currently learning Unity and Unreal Engine :dart:
 - 👯 I’m looking to collaborate with other game creators 💯
 - 🏳️‍🌈 Future Goals: Make my own video game about VRMMORPG 😻 
-- ⚡ Fun fact: I :heart: ♀️ and 🎮 also I play very 🐔
+- ⚡ Fun fact: I :heart: 🐕 and 🎮 also I play very 🐔
 
 ### Connect with me 🦄
 
