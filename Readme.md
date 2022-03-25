@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/hant1201" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="hant" height="30" width="40" /></a>
 <a href="https://twitter.com/nthzz121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hant" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thanh-h%C3%A0-nguy%E1%BB%85n-64811a221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hant" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nth__zz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hant" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/nth__zz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hant" height="30" width="40" /></a> -->
 
 <br />
 
